@@ -45,10 +45,10 @@ weighted avg       0.97      0.96      0.96       114
 ```
 
 ### **Confusion Matrix**
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](/images/confusion_matrix.png)
 
 ### **ROC-AUC Curve**
-![ROC-AUC Curve](roc_auc_curve.png)
+![ROC-AUC Curve](/images/roc_auc_curve.png)
 
 ---
 
