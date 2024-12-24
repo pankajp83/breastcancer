@@ -1,5 +1,3 @@
-# Prepare the final README.md file content
-final_readme_content = """
 # Breast Cancer Prediction using Machine Learning
 
 ## Project Overview
@@ -69,11 +67,3 @@ This project implements a machine learning pipeline to predict breast cancer dia
 3. Extend to image-based datasets (e.g., mammograms) using deep learning techniques.
 
 ---
-"""
-
-# Save README.md file
-final_readme_path = "/mnt/data/final_README.md"
-with open(final_readme_path, "w") as file:
-    file.write(final_readme_content)
-
-final_readme_path
