@@ -67,3 +67,5 @@ This project implements a machine learning pipeline to predict breast cancer dia
 3. Extend to image-based datasets (e.g., mammograms) using deep learning techniques.
 
 ---
+
+Jupiter Notebook : https://github.com/pankajp83/breastcancer/blob/main/breastcancer.ipynb
